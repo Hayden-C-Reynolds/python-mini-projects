@@ -9,13 +9,13 @@ A small Python program that calculates the amount each person should pay when sp
 
 ## Example Usage
 
-'''text
+```text
 Welcome to the tip calculator!
 What was the total bill? $150
 What percentage tip would you like to give? 12
 How many people to split the bill? 3
 Each person should pay: $56.0
-'''
+```
 
 
 ## Notes / Learning Points
@@ -25,18 +25,17 @@ Each person should pay: $56.0
 ## How to Run
 1. Clone this repository:
    
-'''bash 
+```bash 
 git clone <your-repo-url>
-'''
+```
 
-3. Navigate to the Tip Calculator folder.  
-4. Run the program in your Python environment:
+2. Navigate to the Tip Calculator folder.  
+3. Run the program in your Python environment:
 
-'''bash
+```bash
 python main.py
-'''
-
-6. Follow the prompts to calculate the split bill.
+```
+4. Follow the prompts to calculate the split bill.
 
 ## License
 This project is licensed under the MIT License.
