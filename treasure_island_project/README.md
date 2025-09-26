@@ -30,7 +30,7 @@ You win!
 2. Navigate to the Treasure Island folder.  
 
 3. Run the program in your Python environment:  
-   `python main.py`
+   `python treasure_island.py`
 
 4. Follow the prompts to play the game.
 
