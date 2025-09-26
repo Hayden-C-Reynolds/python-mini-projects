@@ -11,25 +11,25 @@ A simple Python game where the user plays Rock, Paper, Scissors against the comp
 ## Example Usage
 ```text
 What do you choose? Type 0 for Rock, 1 for Paper, or 2 for Scissors
-> 2
+>1
 
     _______
 ---'   ____)____
           ______)
-       __________)
-      (____)
----.__(___)
+          _______)
+         _______)
+---.__________)
 
 computer chose:
 
     _______
----'   ____)____
-          ______)
-       __________)
+---'   ____)
+      (_____)
+      (_____)
       (____)
 ---.__(___)
 
-Draw!
+You Win!
 ```
 ## How to Run
 1. Clone the repository:  
