@@ -33,7 +33,7 @@ git clone <your-repo-url>
 3. Run the program in your Python environment:
 
 ```bash
-python main.py
+python tip_calculator.py
 ```
 4. Follow the prompts to calculate the split bill.
 
